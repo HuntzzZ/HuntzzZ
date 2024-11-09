@@ -1,2 +1,1 @@
-# codeacg
-个人主页美化
+![:name](https://count.getloli.com/@:name?theme=normal-2)
